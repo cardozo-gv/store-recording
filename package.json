@@ -2,7 +2,7 @@
   "name": "store-recording",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cardozo-gv.github.io/store-recording/",
+  "homepage": "https://cardozo-gv.github.io/",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "gh-pages": "^2.0.1",
