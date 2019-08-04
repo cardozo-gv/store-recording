@@ -2,6 +2,14 @@
 
 ###  https://cardozo-gv.github.io/store-recording/
 
+<br/>
+
+##Tutorial: React Phone E-Commerce Project
+<br/> 
+Youtube Channel : Coding addict
+<br/>
+url: https://www.youtube.com/watch?v=-edmQKcOW8s <br/>
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
